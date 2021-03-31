@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h2>Prueba commit desde VSCode</h2>
         <p>
           I edited  <code>src/App.js</code> and save to reload. And now this **** go so fast
         </p>
